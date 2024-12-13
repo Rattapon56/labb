@@ -1,1 +1,1 @@
-print ('facekub')
+print ('1222')
